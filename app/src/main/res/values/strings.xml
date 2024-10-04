@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">World\'s Best Foods</string>
+
+    <string name="foods_name">Food Name</string>
+    <string name="description">Description</string>
+    <string name="header">Top 10 Best Foods in the World</string>
+    <string name="about">About me</string>
+    <string name="about_name">Your Name</string>
+    <string name="about_email">youremail@gmail.com</string>
+
+
+    <string-array name="data_name">
+        <item>Rendang</item>
+        <item>Pizza</item>
+        <item>Sushi</item>
+        <item>Tom Yam Goong</item>
+        <item>Dim Sum</item>
+        <item>Ramen</item>
+        <item>Bebek Peking</item>
+        <item>Massaman Curry</item>
+        <item>Paella</item>
+        <item>Pad Thai</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Rendang adalah hidangan daging sapi yang dimasak dengan santan dan rempah-rempah khas Minangkabau, seperti lengkuas, kunyit, bawang putih, jahe, dan cabai. Proses memasaknya memakan waktu berjam-jam, yang membuat daging menjadi sangat empuk dan sarat dengan bumbu yang meresap hingga ke dalam. Kombinasi rasa pedas, gurih, manis, dan sedikit asam membuat Rendang begitu istimewa. Hidangan ini juga melambangkan budaya dan tradisi gotong royong masyarakat Sumatra Barat, di mana proses memasak dilakukan bersama-sama. Rendang sering dianggap sebagai makanan terenak karena kelezatan dan kompleksitas rasa yang tercipta dari proses memasak yang panjang.</item>
+        <item>Pizza, terutama Pizza Margherita, merupakan salah satu makanan yang paling ikonik dari Italia. Hidangan ini terdiri dari adonan roti yang tipis, saus tomat, keju mozzarella, dan daun basil yang segar, menciptakan perpaduan sempurna antara manisnya tomat, gurihnya keju, dan aroma segar dari basil. Asal-usul Pizza Margherita diyakini berasal dari tahun 1889, ketika dibuat untuk menghormati Ratu Margherita dari Italia. Keseimbangan antara sederhana namun sarat rasa membuat pizza menjadi salah satu makanan yang paling disukai di seluruh dunia. Kesederhanaan bahan namun hasil akhir yang memuaskan menjadikan pizza sangat fleksibel untuk berbagai variasi topping.</item>
+        <item>Sushi adalah hidangan tradisional Jepang yang terdiri dari nasi yang dibumbui dengan cuka dan disajikan dengan berbagai bahan, seperti ikan mentah (seperti salmon dan tuna), telur, atau sayuran. Sushi mencerminkan filosofi Jepang tentang keindahan kesederhanaan dan keseimbangan dalam makanan. Teknik penyajian sushi memerlukan ketelitian dan ketrampilan, terutama dalam hal memotong ikan dan menyiapkan nasi dengan tepat. Kelezatan sushi terletak pada kualitas bahan-bahannya yang segar, tekstur yang berbeda antara nasi dan ikan, serta perpaduan rasa gurih, asam, dan umami. Sushi dianggap terenak karena kesegaran bahan yang digunakan dan perhatian yang teliti terhadap detail.</item>
+        <item>Tom Yam Goong adalah sup seafood yang sangat populer dari Thailand. Sup ini dikenal dengan cita rasanya yang kompleks—asam, pedas, gurih, dan sedikit manis, semuanya berpadu dalam kuah bening berbasis kaldu udang yang segar. Bumbu utama dalam Tom Yam adalah serai, daun jeruk, lengkuas, dan cabai, yang menciptakan aroma kuat dan segar. Hidangan ini menjadi sangat populer karena mampu menggabungkan berbagai rasa yang saling melengkapi, menciptakan sensasi unik di setiap sendokan. Keseimbangan rasa inilah yang membuat Tom Yam Goong begitu disukai, baik oleh masyarakat Thailand maupun wisatawan mancanegara.</item>
+        <item>Dim Sum adalah serangkaian makanan kecil yang disajikan dalam porsi gigitan, sering dinikmati bersama teh dalam tradisi yum cha. Dim Sum dapat terdiri dari berbagai jenis makanan, seperti pangsit, siomay, dan hakau, yang biasanya diisi dengan daging babi, udang, atau sayuran. Hidangan ini berasal dari tradisi perjalanan di jalur Sutra di Tiongkok, di mana para pedagang akan berhenti untuk menikmati teh dan makanan ringan. Kombinasi antara rasa gurih dari isian dan kelembutan dari kulit tepung yang tipis menjadikan Dim Sum favorit banyak orang. Dim Sum dihargai karena keberagamannya, kepraktisannya, dan kelezatan setiap gigitannya.</item>
+        <item>Ramen adalah mie kuah dari Jepang yang disajikan dengan kaldu daging atau ikan yang kaya rasa. Kuahnya, yang sering kali merupakan perpaduan antara kaldu ayam dan babi, memiliki rasa yang dalam dan kompleks. Mie dalam ramen biasanya tipis dan berwarna kuning, ditambahkan dengan topping seperti daging babi, telur rebus, rumput laut, dan menma (rebung). Sejarah ramen di Jepang bermula dari adaptasi hidangan mie dari Tiongkok, dan saat ini, berbagai jenis ramen dengan kaldu yang bervariasi dapat ditemukan di seluruh Jepang. Hidangan ini menjadi salah satu makanan terenak karena kaya akan rasa dan tekstur, serta kenyamanan yang diberikannya sebagai makanan sehari-hari.</item>
+        <item>Bebek Peking adalah hidangan dari Beijing, Tiongkok, yang terkenal dengan kulit bebek yang renyah dan dagingnya yang lembut. Bebek ini dipanggang dengan teknik khusus yang membuat kulitnya berkilau dan sangat garing. Disajikan dengan pancake tipis, saus hoisin, dan irisan mentimun atau daun bawang, setiap gigitan menawarkan perpaduan tekstur dan rasa yang unik. Bebek Peking dianggap sebagai salah satu hidangan paling lezat karena metode memasaknya yang cermat dan hasil akhir yang memukau.</item>
+        <item>Kari Massaman adalah hidangan yang terkenal dengan rasa pedas yang lembut dan sedikit manis, dengan pengaruh dari masakan Persia. Hidangan ini dibuat dengan daging sapi atau ayam yang dimasak dalam santan, kentang, dan rempah-rempah seperti kayu manis, pala, dan kapulaga. Kari Massaman terkenal karena kedalaman rasanya yang tercipta dari perpaduan rempah-rempah Asia Selatan dan bahan khas Thailand. Kelezatannya terletak pada keseimbangan antara rasa gurih dari santan, rempah-rempah aromatik, dan manisnya gula.</item>
+        <item>Paella adalah hidangan nasi tradisional dari Spanyol yang berasal dari daerah Valencia. Nasi dalam paella dimasak dengan kunyit atau saffron, yang memberikan warna kuning cerah, dan dicampur dengan berbagai bahan seperti seafood (udang, kerang, cumi), ayam, atau sosis chorizo. Paella dimasak dalam wajan besar dan biasanya disajikan untuk acara makan bersama, mencerminkan tradisi sosial masyarakat Spanyol. Hidangan ini dikenal sebagai makanan terenak karena perpaduan sempurna antara nasi, bumbu, dan bahan berkualitas tinggi yang memberikan rasa yang mendalam dan memuaskan.</item>
+        <item>Pad Thai adalah mie goreng khas Thailand yang disajikan dengan udang, tahu, tauge, kacang tanah, dan telur. Mie yang digunakan adalah mie beras yang digoreng dengan campuran saus asam-manis berbahan dasar asam jawa dan gula. Hidangan ini sangat populer karena rasanya yang seimbang, dengan kombinasi antara manis, asam, pedas, dan gurih. Pad Thai mudah ditemukan di jalan-jalan Thailand, dari pedagang kaki lima hingga restoran kelas atas. Hidangan ini disukai karena kesederhanaannya namun sarat rasa.</item>
+    </string-array>
+    
+    <integer-array name="data_photo">
+        <item>@drawable/rendang</item>
+        <item>@drawable/pizza</item>
+        <item>@drawable/sushi</item>
+        <item>@drawable/tomyamgoong</item>
+        <item>@drawable/dimsum</item>
+        <item>@drawable/ramen</item>
+        <item>@drawable/bebekpeking</item>
+        <item>@drawable/massamancurry</item>
+        <item>@drawable/paella</item>
+        <item>@drawable/padthai</item>
+    </integer-array>
+</resources>

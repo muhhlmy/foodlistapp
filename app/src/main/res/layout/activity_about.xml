@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="372dp"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            tools:layout_editor_absoluteX="6dp"
+            tools:layout_editor_absoluteY="87dp">
+
+            <ImageView
+                android:id="@+id/img_about"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/profile" />
+
+            <TextView
+                android:id="@+id/tv_about_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:textColor="#FFFFFF"
+                android:fontFamily="@font/montserrat_bold"
+                android:text="@string/about_name"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/tv_about_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:textColor="#FFFFFF"
+                android:fontFamily="@font/montserrat_medium"
+                android:text="@string/about_email"
+                android:textAlignment="center" />
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
